@@ -1,0 +1,16 @@
+{
+  "dropdown": {
+    "item": {
+      "text": {
+        "sm": {
+          "value": {
+            "fontFamily": "{daisy.theme.font.family.sans}",
+            "fontWeight": "{daisy.font.weight.sm}",
+            "fontSize": "{daisy.font.size.175}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

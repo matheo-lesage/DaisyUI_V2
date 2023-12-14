@@ -1,0 +1,16 @@
+{
+  "dropdown": {
+    "item": {
+      "dimensions": {
+        "size": {
+          "value": "{tailwind.dimensions.450}",
+          "type": "dimension"
+        },
+        "padding": {
+          "value": "{tailwind.dimensions.0} {tailwind.dimensions.200} {tailwind.dimensions.0} {tailwind.dimensions.200}",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

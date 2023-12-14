@@ -1,0 +1,28 @@
+{
+  "dropdown": {
+    "content": {
+      "dimensions": {
+        "padding": {
+          "value": "{tailwind.dimensions.100}",
+          "type": "dimension"
+        },
+        "gap": {
+          "value": "{tailwind.dimensions.negative} {tailwind.dimensions.50}",
+          "type": "dimension"
+        }
+      },
+      "colors": {
+        "bg": {
+          "value": "{daisy.ui.colors.fill.base.100}",
+          "type": "color"
+        }
+      },
+      "effects": {
+        "dropShadow": {
+          "value": "{sys.effects.dropShadow}",
+          "type": "boxShadow"
+        }
+      }
+    }
+  }
+}

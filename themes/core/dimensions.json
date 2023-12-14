@@ -144,6 +144,10 @@
       "1px": {
         "type": "dimension",
         "value": "1px"
+      },
+      "negative": {
+        "value": "-",
+        "type": "number"
       }
     }
   }

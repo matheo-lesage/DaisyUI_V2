@@ -24,7 +24,11 @@
       "core/dimensions": "source",
       "components/button/dimensions/default": "enabled",
       "components/button/dimensions/shape": "enabled",
-      "components/button/borders": "enabled"
+      "components/button/borders": "enabled",
+      "components/dropdown/item/colors": "enabled",
+      "components/dropdown/item/typography": "enabled",
+      "components/dropdown/item/dimensions": "enabled",
+      "components/dropdown/content": "enabled"
     },
     "group": "themes"
   },
@@ -53,7 +57,11 @@
       "core/dimensions": "source",
       "components/button/dimensions/default": "enabled",
       "components/button/dimensions/shape": "enabled",
-      "components/button/borders": "enabled"
+      "components/button/borders": "enabled",
+      "components/dropdown/item/colors": "enabled",
+      "components/dropdown/item/typography": "enabled",
+      "components/dropdown/item/dimensions": "enabled",
+      "components/dropdown/content": "enabled"
     },
     "group": "themes"
   },
@@ -82,7 +90,11 @@
       "core/dimensions": "source",
       "components/button/dimensions/default": "enabled",
       "components/button/dimensions/shape": "enabled",
-      "components/button/borders": "enabled"
+      "components/button/borders": "enabled",
+      "components/dropdown/item/colors": "enabled",
+      "components/dropdown/item/typography": "enabled",
+      "components/dropdown/item/dimensions": "enabled",
+      "components/dropdown/content": "enabled"
     },
     "group": "themes"
   }

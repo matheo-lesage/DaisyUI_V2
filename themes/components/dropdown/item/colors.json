@@ -1,0 +1,38 @@
+{
+  "dropdown": {
+    "item": {
+      "colors": {
+        "enabled": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "bg": {
+            "value": "{daisy.ui.colors.fill.base.200}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "bg": {
+            "value": "{daisy.ui.colors.fill.base.content}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.100}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
