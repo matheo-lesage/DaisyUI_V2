@@ -1,0 +1,98 @@
+{
+  "tab": {
+    "border": {
+      "width": {
+        "lifted": {
+          "enabled": {
+            "value": "{daisy.ui.border.width.tab}",
+            "type": "borderWidth"
+          },
+          "active": {
+            "value": "{daisy.ui.border.width.tab}",
+            "type": "borderWidth"
+          },
+          "content": {
+            "value": "{daisy.ui.border.width.box}",
+            "type": "borderWidth"
+          },
+          "container": {
+            "value": "{daisy.sys.border-width.none}",
+            "type": "borderWidth"
+          }
+        },
+        "bordered": {
+          "enabled": {
+            "value": "{daisy.ui.border.width.tab} + 1px",
+            "type": "borderWidth"
+          },
+          "active": {
+            "value": "{daisy.ui.border.width.tab} + 1px",
+            "type": "borderWidth"
+          },
+          "content": {
+            "value": "{daisy.sys.border-width.none}",
+            "type": "borderWidth"
+          },
+          "container": {
+            "value": "{daisy.sys.border-width.none}",
+            "type": "borderWidth"
+          }
+        },
+        "boxed": {
+          "enabled": {
+            "value": "{daisy.sys.border-width.none}",
+            "type": "borderWidth"
+          },
+          "active": {
+            "value": "{daisy.sys.border-width.none}",
+            "type": "borderWidth"
+          },
+          "content": {
+            "value": "{daisy.sys.border-width.none}",
+            "type": "borderWidth"
+          },
+          "container": {
+            "value": "{daisy.sys.border-width.none}",
+            "type": "borderWidth"
+          }
+        }
+      },
+      "radius": {
+        "lifted": {
+          "contained": {
+            "value": "{daisy.ui.border.radius.tab} {daisy.ui.border.radius.tab} {daisy.sys.border-radius.none} {daisy.sys.border-radius.none}",
+            "type": "borderRadius"
+          },
+          "container": {
+            "value": "{daisy.ui.border.radius.tab} {daisy.ui.border.radius.tab} {daisy.sys.border-radius.none} {daisy.sys.border-radius.none}",
+            "type": "borderRadius"
+          }
+        },
+        "content": {
+          "value": "{daisy.ui.border.radius.box}",
+          "type": "borderRadius"
+        },
+        "bordered": {
+          "contained": {
+            "value": "{daisy.sys.border-radius.none}",
+            "type": "borderRadius"
+          },
+          "container": {
+            "value": "{daisy.sys.border-radius.none}",
+            "type": "borderRadius"
+          }
+        },
+        "boxed": {
+          "contained": {
+            "value": "{daisy.ui.border.radius.tab}",
+            "type": "borderRadius"
+          },
+          "container": {
+            "value": "{daisy.sys.border-radius.none}",
+            "type": "borderRadius"
+          }
+        }
+      }
+    }
+  }
+}

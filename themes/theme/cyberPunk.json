@@ -22,6 +22,10 @@
           "tab": {
             "value": "1px",
             "type": "dimension"
+          },
+          "box": {
+            "value": "1px",
+            "type": "dimension"
           }
         },
         "radius": {

@@ -11,10 +11,12 @@
     "ui/border",
     "ui/typography",
     "doc/all",
-    "components/Tab",
-    "components/button/colors",
+    "components/tab/colors",
+    "components/tab/dimensions",
+    "components/tab/borders",
+    "components/button/colors/fill",
+    "components/button/colors/outline",
     "components/button/dimensions",
-    "components/button/borders",
-    "Tab.test.2"
+    "components/button/borders"
   ]
 }

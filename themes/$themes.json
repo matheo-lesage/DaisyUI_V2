@@ -4,7 +4,6 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Tab.test.2": "enabled",
       "theme/light": "source",
       "core/dimension": "source",
       "core/typography": "source",
@@ -14,11 +13,12 @@
       "ui/border": "source",
       "ui/typography": "source",
       "doc/all": "enabled",
-      "components/Tab": "enabled",
       "core/root": "source",
-      "components/button/colors": "enabled",
-      "components/button/dimensions": "disabled",
-      "components/button/borders": "disabled"
+      "components/tab/colors": "enabled",
+      "components/tab/dimensions": "disabled",
+      "components/tab/borders": "disabled",
+      "components/button/colors/fill": "enabled",
+      "components/button/colors/outline": "disabled"
     },
     "group": "themes"
   },
@@ -37,11 +37,11 @@
       "ui/border": "source",
       "ui/typography": "source",
       "doc/all": "enabled",
-      "components/Tab": "enabled",
-      "Tab.test.2": "enabled",
-      "components/button/colors": "enabled",
-      "components/button/dimensions": "disabled",
-      "components/button/borders": "disabled"
+      "components/tab/colors": "enabled",
+      "components/tab/dimensions": "disabled",
+      "components/tab/borders": "disabled",
+      "components/button/colors/fill": "enabled",
+      "components/button/colors/outline": "disabled"
     },
     "group": "themes"
   }

@@ -1,0 +1,168 @@
+{
+  "tab": {
+    "colors": {
+      "lifted": {
+        "enabled": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.ui.colors.fill.base.300}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "bg": {
+            "value": "{daisy.ui.colors.fill.base.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.ui.colors.fill.base.300}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "container": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.ui.colors.fill.base.300}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "bg": {
+            "value": "{daisy.ui.colors.fill.base.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.ui.colors.fill.base.300}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        }
+      },
+      "bordered": {
+        "enabled": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.theme.colors.base.300}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.ui.colors.fill.base.content}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "container": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.ui.colors.fill.base.300}",
+            "type": "color"
+          }
+        }
+      },
+      "boxed": {
+        "enabled": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "bg": {
+            "value": "{daisy.theme.colors.primary.bg}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.primary.content}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "bg": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          },
+          "content": {
+            "value": "{daisy.theme.colors.base.content}",
+            "type": "color"
+          }
+        },
+        "container": {
+          "bg": {
+            "value": "{daisy.ui.colors.fill.base.200}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{daisy.sys.colors.none}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
