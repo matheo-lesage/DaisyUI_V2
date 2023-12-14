@@ -1,0 +1,18 @@
+{
+  "tokenSetOrder": [
+    "root",
+    "core.dimension",
+    "core.typography",
+    "sys.color",
+    "sys.border",
+    "theme.light",
+    "theme.cyberPunk",
+    "ui.color",
+    "ui.border",
+    "ui.typography",
+    "doc",
+    "Tab",
+    "Button",
+    "Tab.test.2"
+  ]
+}

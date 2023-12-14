@@ -1,0 +1,70 @@
+{
+  "daisy": {
+    "font": {
+      "size": {
+        "150": {
+          "value": "{tailwind.dimensions.150}",
+          "type": "fontSizes"
+        },
+        "175": {
+          "value": "{tailwind.dimensions.175}",
+          "type": "fontSizes"
+        },
+        "200": {
+          "value": "{tailwind.dimensions.200}",
+          "type": "fontSizes"
+        },
+        "225": {
+          "value": "{tailwind.dimensions.225}",
+          "type": "fontSizes"
+        },
+        "250": {
+          "value": "{tailwind.dimensions.250}",
+          "type": "fontSizes"
+        },
+        "300": {
+          "value": "{tailwind.dimensions.300}",
+          "type": "fontSizes"
+        },
+        "450": {
+          "value": "{tailwind.dimensions.450}",
+          "type": "fontSizes"
+        }
+      },
+      "weight": {
+        "xs": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "sm": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "md": {
+          "value": "SemiBold",
+          "type": "fontWeights"
+        },
+        "lg": {
+          "value": "Bold",
+          "type": "fontWeights"
+        }
+      },
+      "styles": {
+        "underline": {
+          "value": "Underline",
+          "type": "text"
+        }
+      },
+      "lineHeight": {
+        "default": {
+          "value": "135%",
+          "type": "lineHeights"
+        },
+        "heading": {
+          "value": "125%",
+          "type": "lineHeights"
+        }
+      }
+    }
+  }
+}

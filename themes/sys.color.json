@@ -1,0 +1,34 @@
+{
+  "daisy": {
+    "sys": {
+      "colors": {
+        "backdrop": {
+          "value": "#0006",
+          "type": "color"
+        },
+        "none": {
+          "value": "rgba(255,255,255,0)",
+          "type": "color"
+        },
+        "hover": {
+          "value": "rgba(0,0,0,0.10)",
+          "type": "color"
+        },
+        "active": {
+          "value": "rgba(0,0,0,0.07)",
+          "type": "color"
+        },
+        "disabeled": {
+          "disabled-bg": {
+            "value": "rgba(0,0,0,0.20)",
+            "type": "color"
+          },
+          "disabled-content": {
+            "value": "rgba(0,0,0,0.40)",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

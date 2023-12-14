@@ -1,0 +1,150 @@
+{
+  "daisy": {
+    "theme": {
+      "font": {
+        "family": {
+          "sans": {
+            "value": "Menlo",
+            "type": "fontFamilies"
+          },
+          "mono": {
+            "value": "Menlo",
+            "type": "fontFamilies"
+          }
+        }
+      },
+      "border-width": {
+        "btn": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "1px",
+          "type": "dimension"
+        }
+      },
+      "border-radius": {
+        "box": {
+          "value": "0rem",
+          "type": "dimension"
+        },
+        "btn": {
+          "value": "0rem",
+          "type": "dimension"
+        },
+        "badge": {
+          "value": "0rem",
+          "type": "dimension"
+        },
+        "tab": {
+          "value": "0rem",
+          "type": "dimension"
+        }
+      },
+      "colors": {
+        "primary": {
+          "bg": {
+            "value": "#FF6596",
+            "type": "color"
+          },
+          "content": {
+            "value": "#190308",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "#00E8FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#001216",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "#CE74FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#0F0417",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "bg": {
+            "value": "#111A3B",
+            "type": "color"
+          },
+          "content": {
+            "value": "#FFF248",
+            "type": "color"
+          }
+        },
+        "base": {
+          "100": {
+            "value": "#FFF248",
+            "type": "color"
+          },
+          "200": {
+            "value": "#E9DC41",
+            "type": "color"
+          },
+          "300": {
+            "value": "#D2C63A",
+            "type": "color"
+          },
+          "content": {
+            "value": "#161402",
+            "type": "color"
+          }
+        },
+        "info": {
+          "bg": {
+            "value": "#00B5FF",
+            "type": "color"
+          },
+          "content": {
+            "value": "#00110D",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg": {
+            "value": "#00A96E",
+            "type": "color"
+          },
+          "content": {
+            "value": "#00110D",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "bg": {
+            "value": "#FFBE00",
+            "type": "color"
+          },
+          "content": {
+            "value": "#00110D",
+            "type": "color"
+          }
+        },
+        "error": {
+          "bg": {
+            "value": "#FF5960",
+            "type": "color"
+          },
+          "content": {
+            "value": "#00110D",
+            "type": "color"
+          }
+        }
+      },
+      "name": {
+        "value": "Cyberpunk",
+        "type": "text"
+      }
+    }
+  }
+}

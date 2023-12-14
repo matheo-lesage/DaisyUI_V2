@@ -1,0 +1,22 @@
+{
+  "daisy": {
+    "sys": {
+      "border-radius": {
+        "rounded": {
+          "value": "1000",
+          "type": "borderRadius"
+        },
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
+        }
+      },
+      "border-width": {
+        "none": {
+          "value": "{tailwind.dimensions.0}",
+          "type": "borderWidth"
+        }
+      }
+    }
+  }
+}
