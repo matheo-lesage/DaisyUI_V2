@@ -1,1 +1,40 @@
-{}
+{
+  "daisy": {
+    "ui": {
+      "border": {
+        "radius": {
+          "btn": {
+            "value": "{daisy.theme.border.radius.btn}",
+            "type": "borderRadius"
+          },
+          "tab": {
+            "value": "{daisy.theme.border.radius.tab}",
+            "type": "borderRadius"
+          },
+          "box": {
+            "value": "{daisy.theme.border.radius.box}",
+            "type": "borderRadius"
+          },
+          "badge": {
+            "value": "{daisy.theme.border.radius.badge}",
+            "type": "borderRadius"
+          }
+        },
+        "width": {
+          "btn": {
+            "value": "{daisy.theme.border.width.btn}",
+            "type": "borderWidth"
+          },
+          "tab": {
+            "value": "{daisy.theme.border.width.tab}",
+            "type": "borderWidth"
+          },
+          "box": {
+            "value": "{daisy.theme.border.width.box}",
+            "type": "borderWidth"
+          }
+        }
+      }
+    }
+  }
+}

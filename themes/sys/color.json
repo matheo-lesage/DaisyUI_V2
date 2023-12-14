@@ -27,6 +27,16 @@
             "value": "rgba(0,0,0,0.40)",
             "type": "color"
           }
+        },
+        "darken": {
+          "hover": {
+            "value": "0.13",
+            "type": "number"
+          },
+          "active": {
+            "value": "0.10",
+            "type": "number"
+          }
         }
       }
     }

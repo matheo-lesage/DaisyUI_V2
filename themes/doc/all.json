@@ -72,13 +72,13 @@
     },
     "radius": {
       "surface": {
-        "value": "{daisy.theme.border-radius.box}",
+        "value": "{daisy.theme.border.radius.box}",
         "type": "borderRadius"
       },
       "header": {
         "theme": {
           "container": {
-            "value": "{daisy.theme.border-radius.btn}",
+            "value": "{daisy.theme.border.radius.btn}",
             "type": "borderRadius"
           },
           "ColorIndicator": {

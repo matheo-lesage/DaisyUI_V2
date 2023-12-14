@@ -78,60 +78,604 @@
               "value": "{daisy.ui.colors.fill.primary.content}",
               "type": "color"
             }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.primary.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.primary.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.primary.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.primary.content}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.secondary.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.secondary.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.secondary.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.secondary.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.secondary.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.secondary.content}",
+              "type": "color"
+            }
+          }
+        },
+        "accent": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.accent.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.accent.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.accent.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.accent.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.accent.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.accent.content}",
+              "type": "color"
+            }
+          }
+        },
+        "neutral": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.neutral.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.neutral.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.neutral.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.neutral.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.neutral.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.neutral.content}",
+              "type": "color"
+            }
+          }
+        },
+        "default": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.base.200}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.base.200}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.base.200}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color"
+            }
+          }
+        },
+        "info": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.info.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.info.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.info.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.info.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.info.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.info.content}",
+              "type": "color"
+            }
+          }
+        },
+        "success": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.success.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.success.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.success.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.success.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.success.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.success.content}",
+              "type": "color"
+            }
+          }
+        },
+        "warning": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.warning.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.warning.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.warning.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.warning.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.warning.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.warning.content}",
+              "type": "color"
+            }
+          }
+        },
+        "error": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.error.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.error.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.error.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.error.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.error.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.error.content}",
+              "type": "color"
+            }
           }
         }
       }
-    },
-    "border-width": {
+    }
+  },
+  "border": {
+    "width": {
       "fill": {
         "value": "{daisy.sys.border-width.none}",
         "type": "borderWidth"
       },
       "outline": {
-        "value": "{daisy.theme.border-width.btn}",
+        "value": "{daisy.theme.border.width.btn}",
         "type": "borderWidth"
       }
-    },
-    "border-radius": {
-      "default": {
-        "value": "{daisy.theme.border-radius.btn}",
-        "type": "borderRadius"
-      }
-    },
-    "text": {
-      "label": {
-        "xs": {
-          "value": {
-            "fontFamily": "{daisy.theme.font.family.sans}",
-            "fontWeight": "{daisy.font.weight.sm}",
-            "fontSize": "{daisy.font.size.150}"
-          },
-          "type": "typography"
+    }
+  },
+  "border-radius": {
+    "default": {
+      "value": "{daisy.ui.border.radius.btn}",
+      "type": "borderRadius"
+    }
+  },
+  "text": {
+    "label": {
+      "xs": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.sm}",
+          "fontSize": "{daisy.font.size.150}"
         },
-        "sm": {
-          "value": {
-            "fontFamily": "{daisy.theme.font.family.sans}",
-            "fontWeight": "{daisy.font.weight.sm}",
-            "fontSize": "{daisy.font.size.175}"
-          },
-          "type": "typography"
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.sm}",
+          "fontSize": "{daisy.font.size.175}"
         },
-        "md": {
-          "value": {
-            "fontFamily": "{daisy.theme.font.family.sans}",
-            "fontWeight": "{daisy.font.weight.sm}",
-            "fontSize": "{daisy.font.size.175}"
-          },
-          "type": "typography"
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.sm}",
+          "fontSize": "{daisy.font.size.175}"
         },
-        "lg": {
-          "value": {
-            "fontFamily": "{daisy.theme.font.family.sans}",
-            "fontWeight": "{daisy.font.weight.sm}",
-            "fontSize": "{daisy.font.size.225}"
-          },
-          "type": "typography"
-        }
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.sm}",
+          "fontSize": "{daisy.font.size.225}"
+        },
+        "type": "typography"
       }
     }
   }
