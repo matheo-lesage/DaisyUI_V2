@@ -2,10 +2,6 @@
   "daisy": {
     "sys": {
       "colors": {
-        "backdrop": {
-          "value": "#0006",
-          "type": "color"
-        },
         "none": {
           "value": "rgba(255,255,255,0)",
           "type": "color"
@@ -30,6 +26,16 @@
               "value": "0.45",
               "type": "number"
             }
+          },
+          "hover": {
+            "bg": {
+              "value": "0.25",
+              "type": "number"
+            }
+          },
+          "backdrop": {
+            "value": "0.3",
+            "type": "number"
           }
         }
       }

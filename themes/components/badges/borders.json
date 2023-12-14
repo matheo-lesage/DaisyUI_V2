@@ -1,0 +1,24 @@
+{
+  "border": {
+    "width": {
+      "fill": {
+        "value": "{daisy.sys.border.width.none}",
+        "type": "borderWidth"
+      },
+      "outline": {
+        "value": "{daisy.theme.border.width.btn}",
+        "type": "borderWidth"
+      }
+    }
+  },
+  "border-radius": {
+    "default": {
+      "value": "{daisy.ui.border.radius.btn}",
+      "type": "borderRadius"
+    },
+    "rounded": {
+      "value": "{daisy.sys.border.radius.rounded}",
+      "type": "borderRadius"
+    }
+  }
+}

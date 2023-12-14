@@ -1,0 +1,37 @@
+{
+  "modal": {
+    "colors": {
+      "container": {
+        "bg": {
+          "value": "{daisy.theme.colors.base.100}",
+          "type": "color"
+        }
+      },
+      "backdrop": {
+        "value": "{daisy.ui.colors.fill.base.content}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{daisy.sys.colors.opacity.backdrop}",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "container": {
+      "radius": {
+        "value": "{daisy.ui.border.radius.box}",
+        "type": "borderRadius"
+      }
+    },
+    "dimensions": {
+      "padding": {
+        "value": "{tailwind.dimensions.300}",
+        "type": "dimension"
+      }
+    }
+  }
+}

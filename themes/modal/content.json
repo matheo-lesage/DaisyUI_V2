@@ -1,0 +1,36 @@
+{
+  "modal": {
+    "dimensions": {
+      "container": {
+        "bg": {
+          "value": "{daisy.theme.colors.base.100}",
+          "type": "color"
+        }
+      }
+    },
+    "container": {
+      "radius": {
+        "value": "{daisy.ui.border.radius.box}",
+        "type": "borderRadius"
+      }
+    },
+    "content": {
+      "dimensions": {
+        "body": {
+          "value": "{tailwind.dimensions.200} {tailwind.dimensions.0} {tailwind.dimensions.200} {tailwind.dimensions.0}",
+          "type": "dimension"
+        }
+      },
+      "font": {
+        "body": {
+          "value": "{daisy.ui.text.body.md}",
+          "type": "typography"
+        },
+        "title": {
+          "value": "{daisy.ui.text.heading.h4}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

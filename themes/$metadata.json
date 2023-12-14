@@ -20,13 +20,17 @@
     "components/tab/borders",
     "components/button/colors/fill",
     "components/button/colors/outline",
-    "components/button/dimensions/default",
-    "components/button/dimensions/shape",
     "components/button/typography",
     "components/button/borders",
-    "components/dropdown/item/colors",
-    "components/dropdown/item/typography",
-    "components/dropdown/item/dimensions",
-    "components/dropdown/content"
+    "components/badges/colors/outline",
+    "components/badges/colors/fill",
+    "components/badges/borders",
+    "components/badges/typography",
+    "components/button/dimensions/default",
+    "components/button/dimensions/shape",
+    "components/dropdown/item",
+    "components/dropdown/content",
+    "modal/container",
+    "modal/content"
   ]
 }

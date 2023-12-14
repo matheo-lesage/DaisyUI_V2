@@ -22,6 +22,12 @@
           "value": "{sys.effects.dropShadow}",
           "type": "boxShadow"
         }
+      },
+      "border": {
+        "radius": {
+          "value": "{daisy.ui.border.radius.box}",
+          "type": "borderRadius"
+        }
       }
     }
   }

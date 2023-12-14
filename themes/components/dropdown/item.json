@@ -32,6 +32,31 @@
             "type": "color"
           }
         }
+      },
+      "dimensions": {
+        "size": {
+          "value": "{tailwind.dimensions.450}",
+          "type": "dimension"
+        },
+        "padding": {
+          "value": "{tailwind.dimensions.0} {tailwind.dimensions.200} {tailwind.dimensions.0} {tailwind.dimensions.200}",
+          "type": "dimension"
+        }
+      },
+      "border": {
+        "radius": {
+          "value": "{daisy.ui.border.radius.btn}",
+          "type": "borderRadius"
+        }
+      },
+      "text": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.sm}",
+          "fontSize": "{daisy.font.size.175}",
+          "lineHeight": "{daisy.font.lineHeight.heading}"
+        },
+        "type": "typography"
       }
     }
   }
