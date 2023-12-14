@@ -62,41 +62,5 @@
         "type": "dimension"
       }
     }
-  },
-  "text": {
-    "label": {
-      "xs": {
-        "value": {
-          "fontFamily": "{daisy.theme.font.family.sans}",
-          "fontWeight": "{daisy.font.weight.sm}",
-          "fontSize": "{daisy.font.size.150}"
-        },
-        "type": "typography"
-      },
-      "sm": {
-        "value": {
-          "fontFamily": "{daisy.theme.font.family.sans}",
-          "fontWeight": "{daisy.font.weight.sm}",
-          "fontSize": "{daisy.font.size.175}"
-        },
-        "type": "typography"
-      },
-      "md": {
-        "value": {
-          "fontFamily": "{daisy.theme.font.family.sans}",
-          "fontWeight": "{daisy.font.weight.sm}",
-          "fontSize": "{daisy.font.size.175}"
-        },
-        "type": "typography"
-      },
-      "lg": {
-        "value": {
-          "fontFamily": "{daisy.theme.font.family.sans}",
-          "fontWeight": "{daisy.font.weight.sm}",
-          "fontSize": "{daisy.font.size.225}"
-        },
-        "type": "typography"
-      }
-    }
   }
 }

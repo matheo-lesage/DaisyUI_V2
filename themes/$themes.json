@@ -20,7 +20,10 @@
       "components/tab/borders": "enabled",
       "components/button/colors/outline": "enabled",
       "components/button/dimensions": "enabled",
-      "components/button/borders": "enabled"
+      "components/button/borders": "enabled",
+      "components/button/typography": "enabled",
+      "components/tab/typography": "enabled",
+      "theme/dark": "disabled"
     },
     "group": "themes"
   },
@@ -45,7 +48,37 @@
       "components/tab/borders": "enabled",
       "components/button/colors/outline": "enabled",
       "components/button/dimensions": "enabled",
-      "components/button/borders": "enabled"
+      "components/button/borders": "enabled",
+      "components/button/typography": "enabled",
+      "components/tab/typography": "enabled",
+      "theme/dark": "disabled"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "06cb63e022ed2abd6562e6560596ad28e61b3da8",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/root": "source",
+      "core/dimension": "source",
+      "core/typography": "source",
+      "sys/color": "source",
+      "sys/border": "source",
+      "ui/color": "source",
+      "ui/border": "source",
+      "ui/typography": "source",
+      "doc/all": "enabled",
+      "components/tab/colors": "enabled",
+      "components/tab/dimensions": "enabled",
+      "components/tab/typography": "enabled",
+      "components/tab/borders": "enabled",
+      "components/button/colors/fill": "enabled",
+      "components/button/colors/outline": "enabled",
+      "components/button/dimensions": "enabled",
+      "components/button/typography": "enabled",
+      "components/button/borders": "enabled",
+      "theme/dark": "source"
     },
     "group": "themes"
   }

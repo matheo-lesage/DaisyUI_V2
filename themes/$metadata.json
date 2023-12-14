@@ -6,6 +6,7 @@
     "sys/color",
     "sys/border",
     "theme/light",
+    "theme/dark",
     "theme/cyberPunk",
     "ui/color",
     "ui/border",
@@ -13,10 +14,12 @@
     "doc/all",
     "components/tab/colors",
     "components/tab/dimensions",
+    "components/tab/typography",
     "components/tab/borders",
     "components/button/colors/fill",
     "components/button/colors/outline",
     "components/button/dimensions",
+    "components/button/typography",
     "components/button/borders"
   ]
 }

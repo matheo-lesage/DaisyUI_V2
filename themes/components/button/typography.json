@@ -1,0 +1,76 @@
+{
+  "text": {
+    "label": {
+      "xs": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.150}"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.175}"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.175}"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.225}"
+        },
+        "type": "typography"
+      }
+    },
+    "link": {
+      "xs": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.150}",
+          "textDecoration": "{daisy.font.styles.underline}"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.175}",
+          "textDecoration": "{daisy.font.styles.underline}"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.175}",
+          "textDecoration": "{daisy.font.styles.underline}"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{daisy.theme.font.family.sans}",
+          "fontWeight": "{daisy.font.weight.md}",
+          "fontSize": "{daisy.font.size.225}",
+          "textDecoration": "{daisy.font.styles.underline}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
