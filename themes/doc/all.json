@@ -127,6 +127,10 @@
             "value": "{daisy.ui.text.heading.h1}",
             "type": "typography"
           },
+          "section": {
+            "value": "{daisy.ui.text.heading.h3}",
+            "type": "typography"
+          },
           "category": {
             "value": "{daisy.ui.text.heading.h4}",
             "type": "typography"
