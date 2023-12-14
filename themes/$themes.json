@@ -14,9 +14,11 @@
       "ui/border": "source",
       "ui/typography": "source",
       "doc/all": "enabled",
-      "components/Button": "enabled",
       "components/Tab": "enabled",
-      "core/root": "source"
+      "core/root": "source",
+      "components/button/colors": "enabled",
+      "components/button/dimensions": "disabled",
+      "components/button/borders": "disabled"
     },
     "group": "themes"
   },
@@ -36,8 +38,10 @@
       "ui/typography": "source",
       "doc/all": "enabled",
       "components/Tab": "enabled",
-      "components/Button": "enabled",
-      "Tab.test.2": "enabled"
+      "Tab.test.2": "enabled",
+      "components/button/colors": "enabled",
+      "components/button/dimensions": "disabled",
+      "components/button/borders": "disabled"
     },
     "group": "themes"
   }

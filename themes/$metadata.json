@@ -12,7 +12,9 @@
     "ui/typography",
     "doc/all",
     "components/Tab",
-    "components/Button",
+    "components/button/colors",
+    "components/button/dimensions",
+    "components/button/borders",
     "Tab.test.2"
   ]
 }
