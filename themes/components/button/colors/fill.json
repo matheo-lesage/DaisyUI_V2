@@ -683,6 +683,22 @@
               "type": "color"
             }
           }
+        },
+        "state": {
+          "disabled": {
+            "bg": {
+              "value": "{daisy.sys.colors.disabeled.bg}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.sys.colors.disabeled.content}",
+              "type": "color"
+            }
+          }
         }
       }
     }

@@ -22,8 +22,7 @@
       "components/button/dimensions": "enabled",
       "components/button/borders": "enabled",
       "components/button/typography": "enabled",
-      "components/tab/typography": "enabled",
-      "theme/dark": "disabled"
+      "components/tab/typography": "enabled"
     },
     "group": "themes"
   },
@@ -50,8 +49,7 @@
       "components/button/dimensions": "enabled",
       "components/button/borders": "enabled",
       "components/button/typography": "enabled",
-      "components/tab/typography": "enabled",
-      "theme/dark": "disabled"
+      "components/tab/typography": "enabled"
     },
     "group": "themes"
   },
