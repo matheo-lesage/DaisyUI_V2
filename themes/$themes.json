@@ -15,10 +15,12 @@
       "doc/all": "enabled",
       "core/root": "source",
       "components/tab/colors": "enabled",
-      "components/tab/dimensions": "disabled",
-      "components/tab/borders": "disabled",
       "components/button/colors/fill": "enabled",
-      "components/button/colors/outline": "disabled"
+      "components/tab/dimensions": "enabled",
+      "components/tab/borders": "enabled",
+      "components/button/colors/outline": "enabled",
+      "components/button/dimensions": "enabled",
+      "components/button/borders": "enabled"
     },
     "group": "themes"
   },
@@ -38,10 +40,12 @@
       "ui/typography": "source",
       "doc/all": "enabled",
       "components/tab/colors": "enabled",
-      "components/tab/dimensions": "disabled",
-      "components/tab/borders": "disabled",
       "components/button/colors/fill": "enabled",
-      "components/button/colors/outline": "disabled"
+      "components/tab/dimensions": "enabled",
+      "components/tab/borders": "enabled",
+      "components/button/colors/outline": "enabled",
+      "components/button/dimensions": "enabled",
+      "components/button/borders": "enabled"
     },
     "group": "themes"
   }
