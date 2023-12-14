@@ -2,7 +2,7 @@
   "border": {
     "width": {
       "fill": {
-        "value": "{daisy.sys.border-width.none}",
+        "value": "{daisy.sys.border.width.none}",
         "type": "borderWidth"
       },
       "outline": {
@@ -14,6 +14,10 @@
   "border-radius": {
     "default": {
       "value": "{daisy.ui.border.radius.btn}",
+      "type": "borderRadius"
+    },
+    "rounded": {
+      "value": "{daisy.sys.border.radius.rounded}",
       "type": "borderRadius"
     }
   }

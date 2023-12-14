@@ -1,0 +1,48 @@
+{
+  "btn": {
+    "dimensions": {
+      "shape": {
+        "xs": {
+          "size": {
+            "value": "{tailwind.dimensions.300}",
+            "type": "dimension"
+          },
+          "icon": {
+            "value": "{tailwind.dimensions.175}",
+            "type": "dimension"
+          }
+        },
+        "sm": {
+          "size": {
+            "value": "{tailwind.dimensions.400}",
+            "type": "dimension"
+          },
+          "icon": {
+            "value": "{tailwind.dimensions.200}",
+            "type": "dimension"
+          }
+        },
+        "md": {
+          "size": {
+            "value": "{tailwind.dimensions.600}",
+            "type": "dimension"
+          },
+          "icon": {
+            "value": "{tailwind.dimensions.250}",
+            "type": "dimension"
+          }
+        },
+        "lg": {
+          "size": {
+            "value": "{tailwind.dimensions.800}",
+            "type": "dimension"
+          },
+          "icon": {
+            "value": "{tailwind.dimensions.300}",
+            "type": "dimension"
+          }
+        }
+      }
+    }
+  }
+}

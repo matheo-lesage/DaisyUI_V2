@@ -10,16 +10,6 @@
           "value": "rgba(255,255,255,0)",
           "type": "color"
         },
-        "disabeled": {
-          "bg": {
-            "value": "rgba(0,0,0,0.20)",
-            "type": "color"
-          },
-          "content": {
-            "value": "rgba(0,0,0,0.40)",
-            "type": "color"
-          }
-        },
         "darken": {
           "hover": {
             "value": "0.13",
@@ -28,6 +18,18 @@
           "active": {
             "value": "0.10",
             "type": "number"
+          }
+        },
+        "opacity": {
+          "disabled": {
+            "bg": {
+              "value": "0.3",
+              "type": "number"
+            },
+            "content": {
+              "value": "0.45",
+              "type": "number"
+            }
           }
         }
       }

@@ -82,7 +82,7 @@
             "type": "borderRadius"
           },
           "ColorIndicator": {
-            "value": "{daisy.sys.border-radius.rounded}",
+            "value": "{daisy.sys.border.radius.rounded}",
             "type": "borderRadius"
           }
         }

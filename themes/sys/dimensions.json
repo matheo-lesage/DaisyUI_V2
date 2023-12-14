@@ -1,0 +1,12 @@
+{
+  "daisy": {
+    "sys": {
+      "dimensions": {
+        "click": {
+          "value": "0.95",
+          "type": "number"
+        }
+      }
+    }
+  }
+}

@@ -1,10 +1,11 @@
 {
   "tokenSetOrder": [
     "core/root",
-    "core/dimension",
+    "core/dimensions",
     "core/typography",
     "sys/color",
     "sys/border",
+    "sys/dimensions",
     "theme/light",
     "theme/dark",
     "theme/cyberPunk",
@@ -18,7 +19,8 @@
     "components/tab/borders",
     "components/button/colors/fill",
     "components/button/colors/outline",
-    "components/button/dimensions",
+    "components/button/dimensions/default",
+    "components/button/dimensions/shape",
     "components/button/typography",
     "components/button/borders"
   ]

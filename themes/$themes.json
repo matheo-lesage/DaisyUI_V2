@@ -5,7 +5,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "theme/light": "source",
-      "core/dimension": "source",
       "core/typography": "source",
       "sys/color": "source",
       "sys/border": "source",
@@ -19,10 +18,13 @@
       "components/tab/dimensions": "enabled",
       "components/tab/borders": "enabled",
       "components/button/colors/outline": "enabled",
-      "components/button/dimensions": "enabled",
-      "components/button/borders": "enabled",
       "components/button/typography": "enabled",
-      "components/tab/typography": "enabled"
+      "components/tab/typography": "enabled",
+      "sys/dimensions": "source",
+      "core/dimensions": "source",
+      "components/button/dimensions/default": "enabled",
+      "components/button/dimensions/shape": "enabled",
+      "components/button/borders": "enabled"
     },
     "group": "themes"
   },
@@ -32,7 +34,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/root": "source",
-      "core/dimension": "source",
       "core/typography": "source",
       "sys/color": "source",
       "sys/border": "source",
@@ -46,10 +47,13 @@
       "components/tab/dimensions": "enabled",
       "components/tab/borders": "enabled",
       "components/button/colors/outline": "enabled",
-      "components/button/dimensions": "enabled",
-      "components/button/borders": "enabled",
       "components/button/typography": "enabled",
-      "components/tab/typography": "enabled"
+      "components/tab/typography": "enabled",
+      "sys/dimensions": "source",
+      "core/dimensions": "source",
+      "components/button/dimensions/default": "enabled",
+      "components/button/dimensions/shape": "enabled",
+      "components/button/borders": "enabled"
     },
     "group": "themes"
   },
@@ -59,7 +63,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/root": "source",
-      "core/dimension": "source",
       "core/typography": "source",
       "sys/color": "source",
       "sys/border": "source",
@@ -73,10 +76,13 @@
       "components/tab/borders": "enabled",
       "components/button/colors/fill": "enabled",
       "components/button/colors/outline": "enabled",
-      "components/button/dimensions": "enabled",
       "components/button/typography": "enabled",
-      "components/button/borders": "enabled",
-      "theme/dark": "source"
+      "theme/dark": "source",
+      "sys/dimensions": "source",
+      "core/dimensions": "source",
+      "components/button/dimensions/default": "enabled",
+      "components/button/dimensions/shape": "enabled",
+      "components/button/borders": "enabled"
     },
     "group": "themes"
   }
