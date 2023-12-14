@@ -18,15 +18,15 @@
     "components/tab/dimensions",
     "components/tab/typography",
     "components/tab/borders",
-    "components/dropdown/item/colors",
-    "components/dropdown/item/typography",
-    "components/dropdown/item/dimensions",
-    "components/dropdown/content",
     "components/button/colors/fill",
     "components/button/colors/outline",
     "components/button/dimensions/default",
     "components/button/dimensions/shape",
     "components/button/typography",
-    "components/button/borders"
+    "components/button/borders",
+    "components/dropdown/item/colors",
+    "components/dropdown/item/typography",
+    "components/dropdown/item/dimensions",
+    "components/dropdown/content"
   ]
 }
