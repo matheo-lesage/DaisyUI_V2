@@ -30,6 +30,29 @@
               "value": "{daisy.ui.colors.fill.primary.content}",
               "type": "color"
             }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.primary.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.primary.content}",
+              "type": "color"
+            }
           }
         },
         "secondary": {
@@ -54,6 +77,29 @@
             },
             "border": {
               "value": "{daisy.ui.colors.fill.secondary.bg}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.secondary.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.secondary.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
               "type": "color"
             },
             "content": {
@@ -90,34 +136,27 @@
               "value": "{daisy.ui.colors.fill.accent.content}",
               "type": "color"
             }
-          }
-        },
-        "neutral": {
-          "enabled": {
+          },
+          "active": {
             "bg": {
+              "value": "{daisy.ui.colors.fill.accent.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
               "value": "{daisy.sys.colors.none}",
               "type": "color"
             },
-            "border": {
-              "value": "{daisy.ui.colors.fill.neutral.bg}",
-              "type": "color"
-            },
             "content": {
-              "value": "{daisy.ui.colors.fill.neutral.bg}",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "bg": {
-              "value": "{daisy.ui.colors.fill.neutral.bg}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{daisy.ui.colors.fill.neutral.bg}",
-              "type": "color"
-            },
-            "content": {
-              "value": "{daisy.ui.colors.fill.neutral.content}",
+              "value": "{daisy.ui.colors.fill.accent.content}",
               "type": "color"
             }
           }
@@ -129,25 +168,48 @@
               "type": "color"
             },
             "border": {
-              "value": "{daisy.ui.colors.fill.base.200}",
+              "value": "{daisy.ui.colors.fill.base.content}",
               "type": "color"
             },
             "content": {
-              "value": "{daisy.ui.colors.fill.base.200}",
+              "value": "{daisy.ui.colors.fill.base.content}",
               "type": "color"
             }
           },
           "hover": {
             "bg": {
-              "value": "{daisy.ui.colors.fill.base.200}",
+              "value": "{daisy.ui.colors.fill.base.content}",
               "type": "color"
             },
             "border": {
-              "value": "{daisy.ui.colors.fill.base.200}",
+              "value": "{daisy.ui.colors.fill.base.content}",
               "type": "color"
             },
             "content": {
+              "value": "{daisy.ui.colors.fill.base.100}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
               "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.base.100}",
               "type": "color"
             }
           }
@@ -174,6 +236,29 @@
             },
             "border": {
               "value": "{daisy.ui.colors.fill.info.bg}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.info.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.info.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
               "type": "color"
             },
             "content": {
@@ -210,6 +295,29 @@
               "value": "{daisy.ui.colors.fill.success.content}",
               "type": "color"
             }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.success.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.success.content}",
+              "type": "color"
+            }
           }
         },
         "warning": {
@@ -240,6 +348,29 @@
               "value": "{daisy.ui.colors.fill.warning.content}",
               "type": "color"
             }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.warning.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.warning.content}",
+              "type": "color"
+            }
           }
         },
         "error": {
@@ -264,6 +395,29 @@
             },
             "border": {
               "value": "{daisy.ui.colors.fill.error.bg}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.error.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.error.bg}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
               "type": "color"
             },
             "content": {

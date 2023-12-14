@@ -559,6 +559,68 @@
               "type": "color"
             }
           }
+        },
+        "ghost": {
+          "enabled": {
+            "bg": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.base.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.hover}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "bg": {
+              "value": "{daisy.ui.colors.fill.base.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "darken",
+                    "value": "{daisy.sys.colors.darken.active}",
+                    "space": "lch"
+                  }
+                }
+              }
+            },
+            "border": {
+              "value": "{daisy.sys.colors.none}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{daisy.ui.colors.fill.base.content}",
+              "type": "color"
+            }
+          }
         }
       }
     }
