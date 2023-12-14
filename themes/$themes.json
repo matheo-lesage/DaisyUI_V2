@@ -4,11 +4,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/light": "source",
-      "components/badges/colors/fill": "disabled",
-      "components/badges/colors/outline": "disabled",
-      "components/badges/typography": "disabled",
-      "components/badges/borders": "disabled"
+      "theme/light": "source"
     },
     "group": "themes"
   },
@@ -17,11 +13,7 @@
     "name": "cyberPunk",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/cyberPunk": "source",
-      "components/badges/colors/fill": "disabled",
-      "components/badges/colors/outline": "disabled",
-      "components/badges/typography": "disabled",
-      "components/badges/borders": "disabled"
+      "theme/cyberPunk": "source"
     },
     "group": "themes"
   },
@@ -30,11 +22,7 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/dark": "source",
-      "components/badges/colors/fill": "disabled",
-      "components/badges/colors/outline": "disabled",
-      "components/badges/typography": "disabled",
-      "components/badges/borders": "disabled"
+      "theme/dark": "source"
     },
     "group": "themes"
   },
@@ -67,11 +55,7 @@
       "components/dropdown/content": "enabled",
       "modal/container": "enabled",
       "modal/content": "enabled",
-      "components/dropdown/item": "enabled",
-      "components/badges/colors/fill": "disabled",
-      "components/badges/colors/outline": "disabled",
-      "components/badges/typography": "disabled",
-      "components/badges/borders": "disabled"
+      "components/dropdown/item": "enabled"
     },
     "group": "components"
   }
